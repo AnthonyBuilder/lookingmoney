@@ -21,8 +21,7 @@ export default function Home() {
   );
 }
 
-
-export function Nav(){
+function Nav(){
   return(
     <nav className="bg-zinc-900 w-screen">
         <div className="mx-auto max-w-7xl px-2 sm:px-6 lg:px-8">
