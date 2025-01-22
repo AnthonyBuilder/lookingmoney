@@ -1,0 +1,11 @@
+{
+  "version": "1.0",
+  "apis": [
+    {
+      "identifier": "fastforex",
+      "source": "@fastforex/v1.6.0#111vgnp2vm1mqmlf1",
+      "integrity": "sha512-I8u5PcX64Y0+p7zFluzwBE+sK7eId/b5QYbui/nRo3kAGkM1OU6z2ulsV7xXGmY883+wo9OdvWqhcqJAAjfSsw==",
+      "installerVersion": "6.1.2"
+    }
+  ]
+}
