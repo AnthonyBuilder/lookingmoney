@@ -13,10 +13,8 @@ export default function Home() {
     <div className="font-[family-name:var(--font-geist-sans)]">
       <main className="flex flex-col gap-8 sm:items-start">
         {Nav()}
-
-        <div className="mainContent">
+        <div className="mainContent ">
             <h1>Convert currency</h1>
-            
         </div>
       </main>
     </div>
