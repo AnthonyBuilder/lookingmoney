@@ -1,9 +1,9 @@
-import Image from "next/image";
-import fastforex from "@api/fastforex";
+// import Image from "next/image";
+// import fastforex from "@api/fastforex";
 
 
 export default function Home() {
-  var result;
+  //var result;
   // fastforex.auth('71e821fb46-50c19bc06f-sqgt3c');
   // fastforex.getConvert({from: 'USD', to: 'EUR', amount: 1.00})
   //   .then(({ data }) => console.log(data))
